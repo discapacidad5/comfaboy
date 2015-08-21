@@ -54,7 +54,7 @@ header .nav li.active ul.dropdown-menu li.active a{
 
 
 .breadcrumb {
-  background-color: #68A4C4;
+  background-color: #044182;
 }
 
 /* === border color === */
@@ -111,7 +111,7 @@ ul.clients li:hover {
 
 /* box */
 .box-bottom {
-	background:#68A4C4;
+	background:#EC9947;
 }
 
 /* buttons */
@@ -121,8 +121,8 @@ ul.clients li:hover {
 }
 
 .btn-theme {
-  border:1px solid #68A4C4;
-  background: #68A4C4;
+  border:1px solid #f6f6f6;
+  background: #044182;
 }
 
 /* modal styled */
@@ -216,9 +216,9 @@ ul.clients li:hover {
 
 /* footer */
 footer{
-	background:#68A4C4;
+	background: rgb(4, 65, 130);
 }
 #sub-footer{
-	background:#68A4C4;
+	background:#000;
 }
 
